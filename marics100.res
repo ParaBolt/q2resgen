@@ -1,0 +1,15 @@
+sound/world/1.wav
+sound/world/atmo2.wav
+textures/1bw/1.wal
+textures/1bw/111.wal
+textures/1bw/1b.wal
+textures/1bw/1up2.wal
+textures/1bw/1w.wal
+textures/1bw/3.wal
+textures/1bw/4.wal
+textures/1bw/5.wal
+textures/1bw/6.wal
+textures/1bw/6a.wal
+textures/1bw/w3.wal
+textures/1bw/wflr2.wal
+textures/1bw/wjp.wal
